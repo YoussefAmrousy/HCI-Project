@@ -1,0 +1,228 @@
+.logo {
+    position: absolute;
+    width: 46px;
+    height: 59px;
+    left: 9px;
+    top: 9px;
+
+    background: url(/assets/kawnlogo.jpg);
+}
+
+.kawn {
+    position: absolute;
+    width: 98px;
+    height: 42.78px;
+    left: 67px;
+    top: 5px;
+
+    font-family: 'Poppins';
+    font-style: bold;
+    font-weight: 900;
+    font-size: 27.1731px;
+    line-height: 28px;
+    /* or 104% */
+    letter-spacing: 0.06em;
+
+    color: #000000;
+}
+
+.name {
+    position: absolute;
+    width: 130.22px;
+    height: 99.98px;
+    left: 1730px;
+    top: 27px;
+}
+
+.vt {
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    left: 1830px;
+    top: 70px;
+
+    border: 1px solid #000000;
+    transform: rotate(88.73deg);
+}
+
+.cart {
+    position: absolute;
+    width: 65px;
+    height: 55px;
+    left: 1900px;
+    top: 46px;
+
+    background: url(/assets/cart.svg);
+}
+
+.arrow {
+    position: absolute;
+    width: 190px;
+    height: 27.45px;
+    left: 90px;
+    top: 166.02px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #1E1E1E;
+}
+
+.continue {
+    position: absolute;
+    width: 190px;
+    height: 27.45px;
+    left: 200px;
+    top: 165px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #1E1E1E;
+}
+
+.line {
+    position: absolute;
+    width: 608px;
+    height: 0px;
+    left: 164px;
+    top: 216.86px;
+
+    border: 1.5px solid #D0CFCF;
+}
+
+.shopping {
+    position: absolute;
+    width: 190px;
+    height: 27.45px;
+    left: 164px;
+    top: 241.26px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 27px;
+
+    color: #1E1E1E;
+}
+
+.have {
+    position: absolute;
+    width: 215px;
+    height: 19.32px;
+    left: 164px;
+    top: 280px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #1E1E1E;
+}
+
+.item1 {
+    position: absolute;
+    width: 608px;
+    height: 100px;
+    left: 163px;
+    top: 330px;
+}
+
+.item2 {
+    position: absolute;
+    width: 608px;
+    height: 100px;
+    left: 163px;
+    top: 445px;
+}
+
+.item3 {
+    position: absolute;
+    width: 608px;
+    height: 100px;
+    left: 163px;
+    top: 562px;
+}
+
+.frame {
+    position: absolute;
+    width: 457px;
+    height: 605px;
+    left: 978px;
+    top: 157px;
+}
+
+.checkout {
+    position: absolute;
+    width: 412.24px;
+    height: 56.37px;
+    left: 1000px;
+    top: 685px;
+
+    background: #D0CFCF;
+    border-radius: 12px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FEFCFC;
+}
+
+.search {
+    position: absolute;
+    width: 473px;
+    height: 82px;
+    left: 388px;
+    top: 49px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 45px;
+    /* or 125% */
+    letter-spacing: 0.06em;
+
+    color: #000000;
+
+    background: rgba(217, 217, 217, 0.2);
+}
+
+.searchimg {
+    position: absolute;
+    width: 49px;
+    height: 44px;
+    left: 330px;
+    top: 70px;
+
+    background: url(/assets/search2.png);
+
+}
+
+.email {
+    position: absolute;
+    width: 191px;
+    height: 38px;
+    left: 9px;
+    top: 1350px;
+
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}

@@ -1,0 +1,263 @@
+.fulloutfit {
+    position: absolute;
+    width: 272px;
+    height: 38px;
+    left: 100px;
+    top: 197px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+    /* or 109% */
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.fulloutfitimg {
+    position: absolute;
+    width: 366px;
+    height: 444px;
+    left: 100px;
+    top: 260px;
+
+    background: url(/assets/kawnfulloutfit.svg);
+}
+
+.fulloutfitprice {
+    position: absolute;
+    left: 100px;
+    top: 691px;
+    bottom: 40.06%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+    /* or 101% */
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.fulloutfitbutton {
+    position: absolute;
+    width: 134px;
+    height: 36px;
+    left: 280px;
+    top: 718px;
+
+    background: #FFFFFF;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 28px;
+}
+
+.pants {
+    position: absolute;
+    width: 272px;
+    height: 38px;
+    left: 760px;
+    top: 197px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+    /* or 109% */
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.kawnpants {
+    position: absolute;
+    width: 417px;
+    height: 448px;
+    left: 750px;
+    top: 260px;
+
+    background: url(/assets/kawnpants.svg);
+}
+
+.pantsprice {
+    position: absolute;
+    left: 760px;
+    top: 680px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 28px;
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.pantsbutton {
+    position: absolute;
+    width: 134px;
+    height: 36px;
+    left: 950px;
+    top: 715px;
+
+    background: #FFFFFF;
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 28px;
+}
+
+.basicwhite {
+    position: absolute;
+    width: 272px;
+    height: 38px;
+    left: 100px;
+    top: 746px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+    /* or 109% */
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.whitehoodieimg {
+    position: absolute;
+    width: 370.4px;
+    height: 325.51px;
+    left: 100px;
+    top: 810px;
+    background: url(/assets/whitehoodie.svg);
+}
+
+.whitehoodieprice {
+    position: absolute;
+    width: 272px;
+    height: 38px;
+    left: 100px;
+    top: 1120px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+    /* or 101% */
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.whitehoodiebutton {
+    position: absolute;
+    width: 134px;
+    height: 36px;
+    left: 288px;
+    top: 1145px;
+
+    background: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 28px;
+    /* identical to box height, or 94% */
+    letter-spacing: -0.04em;
+}
+
+.beigehoodie {
+    position: absolute;
+    width: 272px;
+    height: 38px;
+    left: 750px;
+    top: 746px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+    /* or 109% */
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.beigehoodieimg {
+    position: absolute;
+    width: 474px;
+    height: 325px;
+    left: 750px;
+    top: 810px;
+
+    background: url(/assets/beigehoodie.svg);
+}
+
+.beigehoodieprice {
+    position: absolute;
+    left: 760px;
+    right: 32.39%;
+    top: 1118px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+    /* or 101% */
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.beigehoodiebutton {
+    position: absolute;
+    width: 134px;
+    height: 36px;
+    left: 950px;
+    top: 1137px;
+
+    background: #FFFFFF;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+    /* or 109% */
+    letter-spacing: -0.04em;
+
+    color: #000000;
+}
+
+.email {
+    position: absolute;
+    width: 191px;
+    height: 38px;
+    left: 13px;
+    top: 1350px;
+
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}

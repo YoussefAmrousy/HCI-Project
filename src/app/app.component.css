@@ -1,0 +1,92 @@
+body {
+    position: relative;
+    width: 2000px;
+    height: 1500px;
+
+    background-color: #FFFFFF;
+}
+
+.logo {
+    position: absolute;
+    width: 46px;
+    height: 40px;
+    left: 11px;
+    top: 11px;
+
+    background: url(/assets/KawnLogo.jpg);
+}
+
+.kawn {
+    position: absolute;
+    width: 98px;
+    height: 29px;
+    left: 60px;
+    top: -10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27.1731px;
+    line-height: 28px;
+    /* identical to box height, or 104% */
+    letter-spacing: 0.06em;
+
+    color: #000000;
+}
+
+.searchimg {
+    position: absolute;
+    width: 75px;
+    height: 51px;
+    left: 169px;
+    top: 45px;
+
+    background: url(/assets/search.svg);
+}
+
+.search {
+    position: absolute;
+    width: 222px;
+    height: 46px;
+    left: 252px;
+    top: 45px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 45px;
+    /* or 125% */
+    letter-spacing: 0.06em;
+
+    color: #000000;
+}
+
+.name {
+    position: absolute;
+    width: 114px;
+    height: 58px;
+    left: 1300px;
+    top: 27px;
+}
+
+.vt {
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    left: 1360px;
+    top: 50px;
+
+    border: 1px solid #000000;
+    transform: rotate(88.73deg);
+}
+
+.cart {
+    position: absolute;
+    width: 65px;
+    height: 55px;
+    left: 1420px;
+    top: 29px;
+
+    background: url(/assets/cart.png);
+}
