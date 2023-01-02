@@ -6,13 +6,19 @@ import { AppComponent } from './app.component';
 import { CartComponent } from './cart/cart.component';
 import { ShopComponent } from './shop/shop.component';
 import { FulloutfitComponent } from './fulloutfit/fulloutfit.component';
+import { MixedpantsComponent } from './mixedpants/mixedpants.component';
+import { BasicwhiteComponent } from './basicwhite/basicwhite.component';
+import { BeigehoodieComponent } from './beigehoodie/beigehoodie.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CartComponent,
     ShopComponent,
-    FulloutfitComponent
+    FulloutfitComponent,
+    MixedpantsComponent,
+    BasicwhiteComponent,
+    BeigehoodieComponent
   ],
   imports: [
     BrowserModule,

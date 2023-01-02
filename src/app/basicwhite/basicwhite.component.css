@@ -1,0 +1,140 @@
+.img {
+    position: absolute;
+    left: 0.5%;
+    right: 68.8%;
+    top: 18.19%;
+    bottom: 9.87%;
+
+    background: url(/assets/whitehoodie.svg);
+}
+
+.word {
+    position: absolute;
+    width: 551px;
+    height: 45px;
+    left: 484px;
+    top: 148px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 28px;
+    /* or 63% */
+    letter-spacing: 0.06em;
+
+    color: #000000;
+}
+
+.size {
+    position: absolute;
+    width: 551px;
+    height: 43px;
+    left: 500px;
+    top: 220px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+    /* or 94% */
+    letter-spacing: 0.06em;
+
+    color: #000000;
+}
+
+.small {
+    position: absolute;
+    width: 90px;
+    height: 82px;
+    left: 495px;
+    top: 299px;
+}
+
+.medium {
+    position: absolute;
+    width: 90px;
+    height: 82px;
+    left: 610px;
+    top: 302px;
+}
+
+.large {
+    position: absolute;
+    width: 90px;
+    height: 82px;
+    left: 725px;
+    top: 299px;
+}
+
+.xlarge {
+    position: absolute;
+    width: 90px;
+    height: 82px;
+    left: 838px;
+    top: 299px;
+}
+
+.price {
+    position: absolute;
+    width: 237px;
+    height: 53px;
+    left: 669px;
+    top: 390px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+    /* or 94% */
+    letter-spacing: 0.06em;
+
+    color: #00CA8D;
+}
+
+.buy {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+    /* identical to box height, or 94% */
+    text-align: center;
+    letter-spacing: 0.06em;
+
+    color: #000000;
+
+    position: absolute;
+    width: 315px;
+    height: 63px;
+    left: 591px;
+    top: 469px;
+
+    background: #00CA8D;
+}
+
+.arrow {
+    position: absolute;
+    width: 86px;
+    height: 188px;
+    left: 1340px;
+    top: 713px;
+}
+
+.continue {
+    position: absolute;
+    width: 305px;
+    height: 54px;
+    left: 1400px;
+    top: 785px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+
+    color: #1E1E1E;
+}
